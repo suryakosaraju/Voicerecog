@@ -1,0 +1,10 @@
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$mipmap$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$string$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$styleable$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$style$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$drawable$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$id$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$layout$override.class
+CHANGED,/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/suryakosaraju/speechy/R$integer$override.class

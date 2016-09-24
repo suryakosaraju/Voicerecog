@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_419a5d3b379805365beb5fb53619b5ae0dd191d2.jar" />
+    </item>
+    <item
+        jar="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_160f423b29db4b1441e4bfca6dac8eca5b24230a.jar" />
+    </item>
+    <item
+        jar="/Users/suryakosaraju/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_9775cdfdc8f6a94ca42f0a6e448f8c3a11ffe0b8.jar" />
+    </item>
+    <item
+        jar="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_297e0b50862c1e170fed6be79a99b0f04065a1fb.jar" />
+    </item>
+    <item
+        jar="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_f8fc7660f074ddf672e43a2516060b07c6b528e9.jar" />
+    </item>
+    <item
+        jar="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/suryakosaraju/AndroidStudioProjects/Speechy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_41ef6eaea718a8266d0b8a2a3b33a37e0b4eb121.jar" />
+    </item>
+
+</items>
